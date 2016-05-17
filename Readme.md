@@ -1,0 +1,3 @@
+# psqlrc
+PostgreSQL RC file
+
